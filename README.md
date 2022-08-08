@@ -5,7 +5,7 @@
 
 <p align="center">
 <!--  Denver Coder Typing SVG  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Technical+Writer;Software+Engineer;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22&pause=1000"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Technical+Writer;Software+Engineer;Always+Learning&font=Playfair+Display%20Code&center=true&width=440&height=45&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ## About Me:
