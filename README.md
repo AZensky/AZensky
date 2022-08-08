@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=3B18F7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Technical+Writer;Software+Engineer;Always+Learning)](https://git.io/typing-svg)
 
-I'm a UC Davis alumnus with a BS in Managerial Economics and a minor in Philosophy. I'm a software engineer with a passion for problem-solving. I'm always open to learn more and collaborate on projects. Feel free to connect with me here:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+I'm a UC Davis alumnus with a BS in Managerial Economics and a minor in Philosophy. I'm a software engineer with a passion for problem-solving. I'm always open to learn more and collaborate on projects.
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,3 +21,8 @@ I'm a UC Davis alumnus with a BS in Managerial Economics and a minor in Philosop
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Connect With Me!
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
