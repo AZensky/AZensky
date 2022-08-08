@@ -1,4 +1,8 @@
-###  Welcome to Alex Zelinsky's Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+<h3 align="center">
+  Welcome to Jonah Lawrence's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=3B18F7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Technical+Writer;Software+Engineer;Always+Learning)](https://git.io/typing-svg)
 
