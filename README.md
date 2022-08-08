@@ -7,6 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=3B18F7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Technical+Writer;Software+Engineer;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
+### Introduction:
+
 I'm a UC Davis alumnus with a BS in Managerial Economics and a minor in Philosophy. I'm a software engineer with a passion for problem-solving. I'm always open to learn more and collaborate on projects.
 
 ### Languages:
