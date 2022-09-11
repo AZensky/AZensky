@@ -10,7 +10,7 @@
 
 ## About Me:
 
-I'm a UC Davis alumnus with a BS in Managerial Economics and a minor in Philosophy. I'm a software engineer with a passion for problem-solving. I'm always open to learn more and collaborate on projects.
+I'm a UC Davis alumnus and software engineer with a passion for problem-solving. I'm always open to learn more and collaborate on projects.
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
