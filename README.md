@@ -27,7 +27,7 @@ I'm a UC Davis alumnus and software engineer with a passion for problem-solving.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/SQLALCHEMY-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=B60707'/></a>
+<a href='https://www.sqlalchemy.org/' target="_blank"><img alt='' src='https://img.shields.io/badge/SQLALCHEMY-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=B60707'/></a>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
