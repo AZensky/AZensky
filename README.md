@@ -9,7 +9,7 @@
 
 ## About Me:
 
-I'm a software engineer specializing in full stack web development. I'm always open to learning more and collaborating on projects.
+I'm a software engineer specializing in full stack web development. I'm always open to learning more and collaborating on projects!
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
