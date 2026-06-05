@@ -4,12 +4,8 @@
 
 <p align="center">
 <!--  Denver Coder Typing SVG  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=28&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Solutions+Engineer;Software+Engineer;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=28&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Web+Solutions+Engineer;Sales+Operations;Software+Engineer;" alt="Typing SVG" /></a>
 </p>
-
-## About Me:
-
-I am a Solutions Engineer with a Master of Science in Computer Science. I leverage my background to scope requirements, deliver product demos, and translate complex technical concepts into business value. I've completed Dale Carnegie training, which has enhanced my ability to explain technical concepts to both technical and non-technical stakeholders.
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
