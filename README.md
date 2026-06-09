@@ -4,7 +4,7 @@
 
 <p align="center">
 <!--  Denver Coder Typing SVG  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=28&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Web+Solutions+Engineer;Governance,+Risk,+Compliance;Operations;Software+Engineer;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=28&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Web+Solutions+Engineer;Product+Marketing;Software+Engineer;" alt="Typing SVG" /></a>
 </p>
 
 ## Languages:
